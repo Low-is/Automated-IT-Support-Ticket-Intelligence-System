@@ -11,7 +11,7 @@ Key objectives:
 
 - Highlight systemic issues in IT support
 
-= Suggest rules for better prioritization and risk management
+- Suggest rules for better prioritization and risk management
 
 
 ## Languages & Libraries
