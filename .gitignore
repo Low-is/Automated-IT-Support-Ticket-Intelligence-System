@@ -1,0 +1,9 @@
+# Ignore Jupyter notebook checkpoints
+src/.ipynb_checkpoints/
+
+# Ignore any Python cache
+__pycache__/
+*.pyc
+
+# Ignore data (if large)
+data/.ipynb_checkpoints/
