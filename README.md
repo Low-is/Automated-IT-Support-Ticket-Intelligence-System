@@ -1,7 +1,7 @@
 ## Automated IT Support Ticket Intelligence System
 
 # Overview
-This project processes IT support tickets to extract insights, prioritize requests, and highlight recurring issues using NLP and Machine Learning.
+This project processes IT support tickets to extract insights, prioritize requests, and highlight recurring issues through operational analytics.
 
 Key objectives:
 
