@@ -8,15 +8,11 @@ At its current stage, the workflow is implemented as a series of analytical and 
 By combining data analysis with predictive modeling, the project illustrates how support teams could proactively detect critical issues, improving ticket prioritization and supporting more efficient resource allocation within IT service operations. 
 
 ## ML Architecture Diagram
-Incoming Ticket
-       ↓
-Feature Encoding
-       ↓
-Trained Random Forest Model
-       ↓
-Priority Probability Score
-       ↓
-Flag Critical Tickets
+- Incoming Ticket
+- Feature Encoding
+- Trained Random Forest Model
+- Priority Probability Score
+- Flag Critical Tickets
 
 
 Key objectives:
